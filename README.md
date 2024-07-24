@@ -1,4 +1,4 @@
-##Project 2
+## Project 2
 
 Este projeto visa prever se projetos serão concluídos ou não com base em atributos como horas esperadas e preço estimado. Utilizamos diferentes modelos de machine learning para realizar essa classificação.
 
